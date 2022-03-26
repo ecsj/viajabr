@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViajaBr.Payments.Api", "ViajaBr.Payments.Api\ViajaBr.Payments.Api.csproj", "{093170C0-94D6-4B7A-A015-DFE22105B588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093170C0-94D6-4B7A-A015-DFE22105B588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093170C0-94D6-4B7A-A015-DFE22105B588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093170C0-94D6-4B7A-A015-DFE22105B588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093170C0-94D6-4B7A-A015-DFE22105B588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02879B18-50E1-4028-9D01-F45ECDA91C2B}
+	EndGlobalSection
+EndGlobal

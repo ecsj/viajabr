@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAEiwU0ov+AGpw6HX5z5HvYpUOI48PYZOE359OCTHvpK4tkV3ephGoyd6LKvZ3k+vqSLxIIQXvIIgx5xtfqKIg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Eduardo\\ViajaBr\\ViajaBr.Payments.Api\\ViajaBr.Payments.Api\\ViajaBr.Payments.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecsj\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ecsj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ecsj\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ecsj\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ecsj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ecsj\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
