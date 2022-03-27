@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Jz9hQYkz0wGZi9dSkmgXhvvEjNlgijVrgu+qz2goM0=",
+  "Source": "ViajaBr.Payments.Api",
+  "BasePath": "_content/ViajaBr.Payments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
